@@ -1,0 +1,11 @@
+C:\Users\chous\Desktop\VB\VB_ex2\VB_ex2\bin\Debug\VB_ex2.exe.config
+C:\Users\chous\Desktop\VB\VB_ex2\VB_ex2\bin\Debug\VB_ex2.exe
+C:\Users\chous\Desktop\VB\VB_ex2\VB_ex2\bin\Debug\VB_ex2.pdb
+C:\Users\chous\Desktop\VB\VB_ex2\VB_ex2\bin\Debug\VB_ex2.xml
+C:\Users\chous\Desktop\VB\VB_ex2\VB_ex2\obj\Debug\VB_ex2.vbprojResolveAssemblyReference.cache
+C:\Users\chous\Desktop\VB\VB_ex2\VB_ex2\obj\Debug\VB_ex2.Form1.resources
+C:\Users\chous\Desktop\VB\VB_ex2\VB_ex2\obj\Debug\VB_ex2.Resources.resources
+C:\Users\chous\Desktop\VB\VB_ex2\VB_ex2\obj\Debug\VB_ex2.vbproj.GenerateResource.Cache
+C:\Users\chous\Desktop\VB\VB_ex2\VB_ex2\obj\Debug\VB_ex2.exe
+C:\Users\chous\Desktop\VB\VB_ex2\VB_ex2\obj\Debug\VB_ex2.xml
+C:\Users\chous\Desktop\VB\VB_ex2\VB_ex2\obj\Debug\VB_ex2.pdb
